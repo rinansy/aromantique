@@ -1,5 +1,5 @@
 name: aromantique
-description: "A new Flutter project."
+description: "Aromantique — Luxury niche fragrance boutique built with Flutter & Riverpod 3, featuring bespoke Canvas UI, editorial stepped/grid catalog, custom liquid-wave size slider, and 3D-flipping card checkout."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
